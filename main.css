@@ -1,0 +1,168 @@
+body{
+    background-color: white;
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;
+}
+ #welcome{
+    font-size: xx-large;
+    color: coral;
+ } 
+.banner-point{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-image: url('images/donation3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bannerh1{
+    font-size: 35px;
+}
+.title-2{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+
+}
+.button{
+    width: 200px;
+    height: 30px;
+    padding: 12px;
+    background-color: rgb(243, 26, 11);
+    text-align: center;
+    color: azure;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.button-2{
+    width: 80px;
+    height: 30px;
+    padding: 12px;
+    background-color: rgb(243, 26, 11);
+    text-align: center;
+    color: azure;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.banner-point{
+    color: white;
+}
+.donate-Amount{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.taka{
+margin: 15px;
+background-color:gainsboro;
+padding: 10px;
+border-radius: 7px;
+width: 100px;
+
+}
+
+#donate-200{
+    border-color: blue;
+    color:salmon;
+    background-color: rgb(240, 236, 232);
+    border-right: coral;
+    
+}
+.amount{
+    text-align: center;
+}
+#Amount-box{
+    border: none;
+    font-size: large;
+    width: 200px;
+    height: 30px;
+    
+}
+hr{
+    width: 700px;
+}
+.donate-plan{
+    text-align: center;
+}
+.plan3{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    margin-top: 80px;
+}
+.plan-box{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    margin-left: 30px;
+    text-align: left;
+}
+#plan-box-1{
+background-color: cadetblue;
+}
+#plan-box-2{
+background-color:aqua;
+}
+#plan-box-3{
+background-color: rgb(255, 145, 145);
+}
+.sec-4 {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sec-5{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 100px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+.sec-6{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.subscription-box{
+    width: 600px;
+    height: 100px;
+    background-color: rgb(247, 185, 149);
+    position: relative;
+    padding-top: 50px;
+    padding-right: 50px;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+}
+#Email-box{
+    padding: 15px;
+    width: 250px;
+    border-radius: 8px;
+   background-color: rgb(235, 227, 227);
+    font-size: larger;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
